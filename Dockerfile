@@ -1,4 +1,4 @@
 FROM nginx
-MAINTAINER Ariel Núñez <ariel@terranodo.io>
+MAINTAINER GeoNode development team
 
 COPY nginx.conf /etc/nginx/nginx.conf
